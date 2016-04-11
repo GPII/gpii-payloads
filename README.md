@@ -5,10 +5,16 @@ Collects payloads that flow among GPII modules. Refer to the diagram below for t
 
 ![Figure 1: personalization work flow in shared/public workstations](images/ArchitectureDiagram.png)
 
-Each module is mapped to at least one file that the file name starts with the module name, for example, the device reporter module is mapped to a file called DeviceReporter.md. These files contain the input payload (or request) that triggers the module to start, as well as the output payload (if any) that the module returns or passes to the next module.
+Each module is mapped to at least one file. 
+
+The file name convention is: `[Cloud|Local]ModuleName[-Functionality].md`.
+
+For example, the payload file for the context manager that is deployed on the local machine to perform the functionality of evaluating match is named as `LocalContextManager-HandleRequest.md`. 
+
+These files contain the input payload (or request) that triggers the module to start, as well as the output payload, if any, that the module returns or passes to the next module.
 
 ## Coverage
-The payloads in this repository covers 3 typical processes that are supported by the GPII deployment for public workstations, shown in the diagram above. These processes are representative but not exhaustive. That said, the payloads collected here do not cover all payloads that flow through GPII. 
+The payloads in this repository cover 3 typical processes that are supported by the GPII deployment for public workstations, shown in the diagram above. These processes are representative but not exhaustive. That said, the payloads collected in this repository do not cover all payloads that flow through GPII. 
 
 The 3 processes covered in this repository are:
 
