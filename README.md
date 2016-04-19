@@ -1,7 +1,11 @@
 GPII Payloads
 ==============
 
-Collects payloads that flow among GPII modules. Refer to the diagram below for the GPII modules as well as the personalization work flow in shared/public workstations.
+Refer to [GPII wiki](https://wiki.gpii.net/w/Main_Page) and [GPII Architecture Dashboard](https://wiki.gpii.net/w/Architecture_Dashboard) to understand what GPII is.
+
+The GPII core personalisation architecture is held in [the GPII universal repository](https://github.com/gpii/universal).
+
+This repository collects payloads that flow among GPII modules. Refer to the diagram below for the GPII modules as well as the personalization work flow in shared/public workstations.
 
 ![Figure 1: personalization work flow in shared/public workstations](images/ArchitectureDiagram.png)
 

@@ -1,6 +1,6 @@
-## Lifecycle Manager Payload Examples at User Key Out Process
+## Lifecycle Manager Payload Examples during User Key Out Process
 
-At user key out process, Lifecycle Manager coordinates [Settings Handler](https://wiki.gpii.net/w/Settings_Handler) and [Lifecycle Handlers](https://wiki.gpii.net/w/Lifecycle_Handler) to restore original solution states that are saved before user's settings are applied. 
+During the user key out process, Lifecycle Manager coordinates [Settings Handler](https://wiki.gpii.net/w/Settings_Handler) and [Lifecycle Handlers](https://wiki.gpii.net/w/Lifecycle_Handler) to restore the original solution states that were saved before the user's settings are applied. 
 
 See [the description of Lifecycle Manager at GPII wiki](https://wiki.gpii.net/w/Architecture_Overview#Lifecycle_Manager) for what the lifecycle manager is.
 
@@ -13,7 +13,7 @@ See [the description of Lifecycle Manager at GPII wiki](https://wiki.gpii.net/w/
 An example of an `userToken`: `vladimir`
 
 ### Return Payload
-Lifecycle Manager coordinates [Settings Handler](https://wiki.gpii.net/w/Settings_Handler) and [Lifecycle Handlers](https://wiki.gpii.net/w/Lifecycle_Handler) to restore original solution states. See:
+Lifecycle Manager coordinates [Settings Handler](https://wiki.gpii.net/w/Settings_Handler) and [Lifecycle Handlers](https://wiki.gpii.net/w/Lifecycle_Handler) to restore the original solution states. See:
 
 * [Settings Handler Payload Examples](SettingsHandler.md)
 * [Lifecycle Handlers Payload Examples](LifecycleHandlers.md)

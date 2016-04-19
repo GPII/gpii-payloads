@@ -2,7 +2,7 @@
 
 The solutions registry collects all possible solutions that are registered in GPII for the user's device. 
 
-See [the documentation of Solutions Registry](https://github.com/GPII/universal/blob/master/documentation/SolutionsRegistryFormat.md) for more details.
+See [the SolutionsRegistry documentation](https://github.com/GPII/universal/blob/master/documentation/SolutionsRegistryFormat.md) for more details.
 
 An example of the output payload:
 ```

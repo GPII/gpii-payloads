@@ -2,7 +2,7 @@
 
 The cloud based flow manager (untrusted setting) receives GET requests from the local flow manager and returns the payload with life cycle instructions. This documentation shows examples of the GET request and return payload.
 
-See [the documentation of Flow Manager at GPII wiki](https://wiki.gpii.net/w/Architecture_Overview#Flow_Manager) for more details.
+See [the FlowManager documentation at GPII wiki](https://wiki.gpii.net/w/Architecture_Overview#Flow_Manager) for more details.
 
 ### Table of Contents
 1. [GET Request](#user-content-get-request)

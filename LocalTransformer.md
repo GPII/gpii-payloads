@@ -2,7 +2,7 @@
 
 The local transformer transforms [the output of the local context manager](LocalContextManager-EvaluateMatch.md#user-content-return-payload) into the life cycle instructions.
 
-See [the documentation of Transformer](https://github.com/GPII/universal/blob/master/documentation/Transformer.md) for more details.
+See [the Transformer documentation](https://github.com/GPII/universal/blob/master/documentation/Transformer.md) for more details.
 
 ### Table of Contents
 1. [Input Payload](#user-content-input-payload)

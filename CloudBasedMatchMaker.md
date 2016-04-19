@@ -1,6 +1,6 @@
 ## Cloud Based Match Maker Payload Examples
 
-See [the documentation of Match Maker at GPII wiki](https://wiki.gpii.net/w/Architecture_Overview#Matchmaker) for what the matche maker is.
+See [the MatchMaker documentation at GPII wiki](https://wiki.gpii.net/w/Architecture_Overview#Matchmaker) for what the match maker is.
 
 ### Table of Contents
 1. [Input Payload](#user-content-input-payload)

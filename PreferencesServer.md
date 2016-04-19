@@ -1,6 +1,6 @@
 ## Preferences Server Payload Examples
 
-See [the documentation of Preferences Server](https://github.com/GPII/universal/blob/master/documentation/PreferencesServer.md) for what the preferences server is and its API.
+See [the PreferencesServer documentation](https://github.com/GPII/universal/blob/master/documentation/PreferencesServer.md) for what the preferences server is and its API.
 
 ### Table of Contents
 1. [Input - GET Request](#user-content-input---get-request)
