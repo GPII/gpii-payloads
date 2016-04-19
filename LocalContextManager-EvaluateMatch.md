@@ -2,7 +2,7 @@
 
 In this step, the context manager re-evaluate [the data that has been output from the local matchmaker](LocalMatchMaker.md#user-content-return-payload) against the new context. 
 
-See [the documentation of Context Manager](https://github.com/GPII/universal/blob/master/documentation/ContextManager.md) for what context manager is.
+See [the ContextManager documentation](https://github.com/GPII/universal/blob/master/documentation/ContextManager.md) for what the context manager is.
 
 ### Table of Contents
 1. [Input Payload](#user-content-input-payload)

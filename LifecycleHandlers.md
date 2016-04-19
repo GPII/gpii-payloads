@@ -1,8 +1,8 @@
 ## Lifecycle Handlers Payload Examples
 
-Lifecycle Handlers start or stop a given solution. The payload examples in this document apply to all processes: user key in, user key out and the context change.
+Lifecycle Handlers start or stop a given solution. The payload examples in this document apply to all processes: user key in, user key out and context change.
 
-See [the documentation of Lifecycle Handlers at GPII wiki](https://wiki.gpii.net/w/Lifecycle_Handler) for what lifecycle handlers are.
+See [the LifecycleHandler documentation at GPII wiki](https://wiki.gpii.net/w/Lifecycle_Handler) for what lifecycle handlers are.
 
 ### Table of Contents
 1. [Input Payload](#user-content-input-payload)

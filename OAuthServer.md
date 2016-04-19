@@ -1,6 +1,6 @@
 ## OAuth Server Payload Examples
 
-The OAuth server filters the match making output payload according to the users privacy settings.
+During the user key process, the OAuth server performs the privacy filtering functionality that filters the match making output payload according to the users privacy settings. The filter is referred to a particular ontology that is defined at [the code here](https://github.com/GPII/universal/blob/master/gpii/node_modules/flowManager/src/PrivacyFilter.js#L26-L27). For the time being, the ontology it uses is hardcoded at [the code here](https://github.com/GPII/universal/blob/master/gpii/node_modules/flowManager/src/FlowManagerUtilities.js#L200-L203).
 
 ### Table of Contents
 1. [Input - User authorized preferences](#user-content-input---user-authorized-preferences)

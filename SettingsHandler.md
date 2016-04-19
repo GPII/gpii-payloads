@@ -1,12 +1,12 @@
 ## Settings Handler Payload Examples
 
-The payload examples in this document apply to all processes: user key in, user key out and the context change.
+The payload examples in this document apply to all processes: user key in, user key out and context change.
 
 At user key in and context change processes, settings handler configures solution settings. The solutions can be applications, access features, or assistive technology.
 
-At user key out process, settings handler restores solutions back to their original states.
+During the user key out process, settings handler restores solutions back to their original states.
 
-See [the documentation of Settings Handler at GPII wiki](https://wiki.gpii.net/w/Settings_Handler) for what the settings handler is.
+See [the SettingsHandler documentation at GPII wiki](https://wiki.gpii.net/w/Settings_Handler) for what a settings handler is.
 
 ### Table of Contents
 1. [Input Payload - Solution ID](#user-content-input-payload---solution-id)

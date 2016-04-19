@@ -1,6 +1,6 @@
 ## Payload Examples for Local Context Manager - Handle Request
 
-See [the documentation of Context Manager](https://github.com/GPII/universal/blob/master/documentation/ContextManager.md) for what context manager is.
+See [the ContextManager documentation](https://github.com/GPII/universal/blob/master/documentation/ContextManager.md) for what the context manager is.
 
 ### Table of Contents
 1. [Input - PUT Request](#user-content-input---get-request)

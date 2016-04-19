@@ -1,8 +1,8 @@
 ## Cloud Based Context Manager Payload Examples
 
-The cloud based context manager takes the filtered output of a matchmaking process, evaluate the current context, and decide which context should currently be used.
+The cloud based context manager takes the filtered output of a matchmaking process, evaluates the current context, and decides which context should currently be used.
 
-See [the documentation of Context Manager](https://github.com/GPII/universal/blob/master/documentation/ContextManager.md) for more details.
+See [the ContextManager documentation](https://github.com/GPII/universal/blob/master/documentation/ContextManager.md) for more details.
 
 ### Table of Contents
 1. [Input Payload](#user-content-input-payload)
