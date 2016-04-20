@@ -13,7 +13,7 @@ Each module is mapped to at least one file.
 
 The file name convention is: `[Cloud|Local]ModuleName[-Functionality].md`.
 
-For example, the payload file for the context manager that is deployed on the local machine to perform the functionality of evaluating match is named as `LocalContextManager-HandleRequest.md`. 
+For example, the payload file for the context manager that is deployed on the local machine to perform the functionality of evaluating match is named as `LocalContextManager-EvaluateMatch.md`. 
 
 These files contain the input payload (or request) that triggers the module to start, as well as the output payload, if any, that the module returns or passes to the next module.
 
