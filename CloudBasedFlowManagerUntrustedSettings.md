@@ -1,6 +1,6 @@
 ## Payload Examples of Cloud Based Flow Manager in Untrusted Setting
 
-The cloud based flow manager (untrusted setting) receives GET requests from the local flow manager and returns the payload with life cycle instructions. This documentation shows examples of the GET request and return payload.
+The cloud based flow manager (untrusted configuration) receives GET requests from the local flow manager and returns a payload with lifecycle instructions. This documentation shows examples of the GET request and return payload.
 
 See [the FlowManager documentation at GPII wiki](https://wiki.gpii.net/w/Architecture_Overview#Flow_Manager) for more details.
 

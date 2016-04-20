@@ -14,4 +14,4 @@ The payload received at the PUT request body is identical with [the environment 
 
 ### Output
 
-[Instantiate the local match making process](LocalMatchMaker.md).
+[Instantiate the local matchmaking process](LocalMatchMaker.md).

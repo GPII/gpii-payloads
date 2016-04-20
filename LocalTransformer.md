@@ -1,6 +1,6 @@
 ## Local Transformer Payload Examples
 
-The local transformer transforms [the output of the local context manager](LocalContextManager-EvaluateMatch.md#user-content-return-payload) into the life cycle instructions.
+The local transformer transforms [the output of the local context manager](LocalContextManager-EvaluateMatch.md#user-content-return-payload) into the lifecycle instructions.
 
 See [the Transformer documentation](https://github.com/GPII/universal/blob/master/documentation/Transformer.md) for more details.
 

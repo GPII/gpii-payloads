@@ -1,6 +1,6 @@
 ## Solutions Registry Payload Examples
 
-The solutions registry collects all possible solutions that are registered in GPII for the user's device. 
+The solutions registry collects all possible solutions that are registered in the GPII for the user's device. 
 
 See [the SolutionsRegistry documentation](https://github.com/GPII/universal/blob/master/documentation/SolutionsRegistryFormat.md) for more details.
 

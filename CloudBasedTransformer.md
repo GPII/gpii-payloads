@@ -1,6 +1,6 @@
 ## Cloud Based Transformer Payload Examples
 
-The cloud based transformer transforms [the output of the cloud based context manager](CloudBasedContextManager.md#user-content-return-payload) into the life cycle instructions.
+The cloud based transformer transforms [the output of the cloud based context manager](CloudBasedContextManager.md#user-content-return-payload) into the lifecycle instructions.
 
 See [the Transformer documentation](https://github.com/GPII/universal/blob/master/documentation/Transformer.md) for more details.
 

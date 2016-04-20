@@ -10,7 +10,7 @@ See [the ContextManager documentation](https://github.com/GPII/universal/blob/ma
 
 ### Input Payload
 
-In addition to the match making output, the input payload is a structure that also contains userToken, preferences, solutionsRegistryEntries and deviceContext.
+In addition to the matchmaking output, the input payload is a structure that also contains `userToken`, `preferences`, `solutionsRegistryEntries` and `deviceContext`.
 
 ```
 {

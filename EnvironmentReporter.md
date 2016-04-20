@@ -1,6 +1,6 @@
 ## Environment Reporter Payload Examples
 
-With the current GPII implementation, Environment Reporter detects and reports the environmental information to the context manager every 20 seconds. For now, this information only contains the system timestamp. An example of the current environment report:
+With the current GPII implementation, the Environment Reporter detects and reports environmental information to the context manager every 20 seconds. For now, this information only contains the system timestamp. An example of the current environment report:
 
 ```
 {

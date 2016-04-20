@@ -1,6 +1,6 @@
 ## Local Match Maker Payload Examples
 
-See [the MatchMaker documentation at GPII wiki](https://wiki.gpii.net/w/Architecture_Overview#Matchmaker) for what the match maker is.
+See [the MatchMaker documentation at GPII wiki](https://wiki.gpii.net/w/Architecture_Overview#Matchmaker) for what the matchmaker is.
 
 ### Table of Contents
 1. [Input Payload](#user-content-input-payload)
@@ -8,7 +8,7 @@ See [the MatchMaker documentation at GPII wiki](https://wiki.gpii.net/w/Architec
 
 ### Input Payload
 
-The input payload contains all the inputs collected for the final part of the match making process: userToken, preferences, solutionsRegistryEntries and deviceContext.
+The input payload contains all the inputs collected for the final part of the matchmaking process: `userToken, `preferences`, `solutionsRegistryEntries` and `deviceContext`.
 
 ```
 {
