@@ -1,6 +1,6 @@
-## Payload Examples of Cloud Based Flow Manager in Untrusted Setting
+## Payload Examples of Cloud-Based Flow Manager in Untrusted Setting
 
-The cloud based flow manager (untrusted configuration) receives GET requests from the local flow manager and returns a payload with lifecycle instructions. This documentation shows examples of the GET request and return payload.
+The cloud-based flow manager (untrusted configuration) receives GET requests from the local flow manager and returns a payload with lifecycle instructions. This documentation shows examples of the GET request and return payload.
 
 See [the FlowManager documentation at GPII wiki](https://wiki.gpii.net/w/Architecture_Overview#Flow_Manager) for more details.
 
@@ -17,9 +17,9 @@ An example of the request parameter `device`: See [the output payload of device 
 
 ### Return Payload
 
-The cloud based flow manager filters [the payload returned by Cloud Based Transformers](CloudBasedTransformer.md#user-content-return-payload) to only return these data sections: "userToken", "lifecycleInstructions", "activeContextName", "activeConfiguration", "solutionsRegistryEntries", "matchMakerOutput". The sensitive information, such as user preferences and device report, is removed from the return payload.
+The cloud-based flow manager filters [the payload returned by Cloud-Based Transformers](CloudBasedTransformer.md#user-content-return-payload) to only return these data sections: "userToken", "lifecycleInstructions", "activeContextName", "activeConfiguration", "solutionsRegistryEntries", "matchMakerOutput". The sensitive information, such as user preferences and device report, is removed from the return payload.
 
-Below is an example of the payload returned from the cloud based flow manager to the local flow manager:
+Below is an example of the payload returned from the cloud-based flow manager to the local flow manager:
 
 ```
 {

@@ -1,4 +1,4 @@
-## Cloud Based Match Maker Payload Examples
+## Cloud-Based Matchmaker Payload Examples
 
 See [the MatchMaker documentation at GPII wiki](https://wiki.gpii.net/w/Architecture_Overview#Matchmaker) for what the matchmaker is.
 

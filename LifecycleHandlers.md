@@ -45,5 +45,5 @@ An example of a "configure" action:
 
 #### Return Payload
 
-* None with windows platform
-* The process id with linux platform (currently not in use).
+* None on the MS Windows platform.
+* The process id on the GNU/Linux platform (currently not in use).

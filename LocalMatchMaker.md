@@ -1,4 +1,4 @@
-## Local Match Maker Payload Examples
+## Local Matchmaker Payload Examples
 
 See [the MatchMaker documentation at GPII wiki](https://wiki.gpii.net/w/Architecture_Overview#Matchmaker) for what the matchmaker is.
 
