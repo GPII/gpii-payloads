@@ -31,14 +31,14 @@ The 3 processes covered in this repository are:
 The following is the trace of requests and payloads when a user keys into GPII:
 
 * [Device Reporter](DeviceReporter.md)
-* [Cloud Based Flow Manager in Untrusted Settings](CloudBasedFlowManagerUntrustedSettings.md)
+* [Cloud-Based Flow Manager in Untrusted Settings](CloudBasedFlowManagerUntrustedSettings.md)
 * [Preferences Server](PreferencesServer.md)
 * [Solutions Registry](SolutionsRegistry.md)
-* [Cloud Based Match Maker](CloudBasedMatchMaker.md)
+* [Cloud-Based Matchmaker](CloudBasedMatchMaker.md)
 * [OAuth Server](OAuthServer.md)
-* [Cloud Based Context Manager](CloudBasedContextManager.md)
-* [Cloud Based Transformer](CloudBasedTransformer.md)
-* [Life Cycle Manager](LifecycleManager-KeyInAndContextChange.md)
+* [Cloud-Based Context Manager](CloudBasedContextManager.md)
+* [Cloud-Based Transformer](CloudBasedTransformer.md)
+* [Lifecycle Manager](LifecycleManager-KeyInAndContextChange.md)
 * [Settings Handler](SettingsHandler.md)
 * [Lifecycle Handlers](LifecycleHandlers.md)
 
@@ -46,7 +46,7 @@ The following is the trace of requests and payloads when a user keys into GPII:
 
 The following is the trace of payloads when a user keys out of GPII:
 
-* [Life Cycle Manager](LifecycleManager-KeyOut.md)
+* [Lifecycle Manager](LifecycleManager-KeyOut.md)
 * [Settings Handler](SettingsHandler.md)
 * [Lifecycle Handlers](LifecycleHandlers.md)
 
@@ -56,9 +56,9 @@ The following is the trace of payloads when a context change is detected within 
 
 * [Environment Reporter](EnvironmentReporter.md)
 * [Local Context Manager - Handle Request](LocalContextManager-HandleRequest.md)
-* [Local Match Maker](LocalMatchMaker.md)
+* [Local Matchmaker](LocalMatchMaker.md)
 * [Local Context Manager - Evaluate Match](LocalContextManager-EvaluateMatch.md)
 * [Local Transformer](LocalTransformer.md)
-* [Life Cycle Manager](LifecycleManager-KeyInAndContextChange.md)
+* [Lifecycle Manager](LifecycleManager-KeyInAndContextChange.md)
 * [Settings Handler](SettingsHandler.md)
 * [Lifecycle Handlers](LifecycleHandlers.md)
